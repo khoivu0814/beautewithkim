@@ -28,11 +28,9 @@ hr  {
 
 .row   {
     margin: auto;
-    margin-top: 50px;
 }
-
-.col-md-6 {
-    width: 25rem;
+.card   {
+    margin: 5rem;
 }
 #guarantee  {
     margin: 50px 0;
