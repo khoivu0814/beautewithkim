@@ -33,6 +33,7 @@ hr  {
     margin: 5rem;
 }
 #guarantee  {
+    padding: 7% 15%;
     margin: 50px 0;
     text-align: center;
     
@@ -45,4 +46,16 @@ hr  {
     background-color: #FEFCF3;
 }
 
+.col-spacing    {
+    margin-top: 30px;
+}
 
+
+.p-features {
+    font-size: x-large;
+}
+
+.h2-features    {
+    margin-top: 10px;
+    font-weight: bold;
+}
